@@ -23,7 +23,7 @@ I have been working for more than 2 years developing web applications as a fulls
 <div/>
 
 [Some frameworks ​​I'm familiar with
-](https://github.com/AndreBrennerbr)
+](#)
 <div style="display:inline-block">
 <img src="	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
@@ -34,14 +34,14 @@ I have been working for more than 2 years developing web applications as a fulls
 ">
 <div/>
 
-[Databases](https://github.com/AndreBrennerbr)
+[Databases](#)
 <div style="display:inline-block">
 <img src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 ">
 <div/>
 
-[infrastructure](https://github.com/AndreBrennerbr)
+[infrastructure](#)
 <div style="display:inline-block">
 <img src="	https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 ">
