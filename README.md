@@ -5,9 +5,7 @@
 I am a software developer specializing in web technologies, what motivates me is the challenge and the possibility of being able to actively contribute to a project.
 <div/>
 <br>
-<div style="dislay: block">
-I have been working for more than 2 years developing web applications as a fullstack developer.
-<div/>
+
 
 ## 
 
