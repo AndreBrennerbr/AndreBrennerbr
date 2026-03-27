@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AndreBrennerbr)
 
-Currently working across multiple projects — from discovery to delivery — collaborating on architectural decisions, technical patterns, CI/CD, and agile (Scrum) processes.
+With 4+ years of experience in software development, I currently work across multiple projects — from discovery to delivery — collaborating on architectural decisions, technical patterns, CI/CD, and agile (Scrum) processes.
 
 ### Interests
 * Software Architecture & System Design
